@@ -1,0 +1,4 @@
+git init
+touch nefile.txt
+git add file_name
+git commit-m "commit new'"
